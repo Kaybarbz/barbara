@@ -1,0 +1,16 @@
+
+.skill-set{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center
+}
+.accordion-item{
+    background-color: rgb(252, 249, 243);
+}
+.accordion-button{
+    background-color: #fff;
+}
+.badge{
+    font-size: 1rem;
+}
